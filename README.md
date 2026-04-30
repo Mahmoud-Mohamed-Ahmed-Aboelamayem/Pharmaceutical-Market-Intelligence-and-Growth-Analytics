@@ -87,7 +87,7 @@ Highlights high-gap products, imported dependence, and local presence.
 
 ## Team Members
 - Mohamed Sayed Swalem
-- Mahmoud Aboelamayem
+- Mahmoud Aboelamayem (Team Leader)
 - Mohamed Shebl Azab
 - Nahla Saeed
 - Fatma Alzahraa Ashraf
