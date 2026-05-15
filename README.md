@@ -1,5 +1,6 @@
-# Oncology Drug Sales in Egypt (2022–2025)
-## Comparing Local vs. Imported Oncology Medicines in Egypt
+# Pharmaceutical Market Intelligence & Growth Analytics
+##Analysis of Oncology Drug Sales in Egypt (2022–2025)
+Comparing Local vs. Imported Oncology Medicines in Egypt
 
 ---
 
